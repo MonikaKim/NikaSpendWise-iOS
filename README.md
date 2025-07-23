@@ -1,5 +1,9 @@
 # NikaSpendWise 💸
 
+<p align="center">
+  <img src="https://github.com/MonikaKim/NikaSpendWise-iOS/blob/main/NikaSpendWise.gif?raw=true" width="300">
+</p>
+
 An iOS expense tracker app built to help users manage their personal finances. This app features a clean, modern UI built entirely programmatically with Swift and UIKit, and it is powered by a real-time Firebase backend.
 
 ## ✨ Features
