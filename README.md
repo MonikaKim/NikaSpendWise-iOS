@@ -13,9 +13,9 @@ An iOS expense tracker app built to help users manage their personal finances. T
 
 ## 📸 Screenshots
 
-| Login Screen | Expense List | Add Expense |
-| :----------: | :----------: | :-----------: |
-| <img src="URL_TO_YOUR_LOGIN_SCREENSHOT" width="250"> | <img src="URL_TO_YOUR_MAIN_SCREENSHOT" width="250"> | <img src="URL_TO_YOUR_ADD_SCREENSHOT" width="250"> |
+| Login Screen | Main List | Add Expense | Sign-Up Screen |
+| :----------: | :----------: | :-----------: |:-----------: |
+| <img src="https://github.com/MonikaKim/NikaSpendWise-iOS/blob/main/LogInScreen.jpg?raw=true" width="250"> | <img src="https://github.com/MonikaKim/NikaSpendWise-iOS/blob/main/ListPage.jpg?raw=true" width="250"> | <img src="https://github.com/MonikaKim/NikaSpendWise-iOS/blob/main/AddExpenses.jpg?raw=true" width="250"> | <img src="https://github.com/MonikaKim/NikaSpendWise-iOS/blob/main/SignIn.jpg?raw=true" width="250"> |
 
 ## 🛠️ Tech Stack
 
